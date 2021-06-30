@@ -40,14 +40,14 @@ const FooterPagePro = () => {
           <MDBCol md="12">
             <div className="mb-5 flex-center">
  
-              <a className="tw-ic" rel="noopener noreferrer" href="#!" target="_blank">
+              <a className="tw-ic ml-2" rel="noopener noreferrer" href="#!" target="_blank">
                 <i className="fab fa-twitter fa-lg white-text mr-md-4"> </i>
               </a>
               
-              <a className="li-ic" rel="noopener noreferrer" href="#!" target="_blank">
+              <a className="li-ic ml-2" rel="noopener noreferrer" href="#!" target="_blank">
                 <i className="fab fa-linkedin-in fa-lg white-text mr-md-4"> </i>
               </a>
-              <a className="ins-ic" rel="noopener noreferrer" href="#!" target="_blank">
+              <a className="ins-ic ml-2" rel="noopener noreferrer" href="#!" target="_blank">
                 <i className="fab fa-instagram fa-lg white-text mr-md-4"> </i>
               </a>
               
@@ -58,7 +58,7 @@ const FooterPagePro = () => {
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
           &copy; {new Date().getFullYear()} Copyright:
-          <a href="http://www.gbu.ac.in"> gbu.ac.in </a>
+          <a href="http://www.major.mukulrai.in">College CafeQueria</a>
         </MDBContainer>
       </div>
     </MDBFooter>
