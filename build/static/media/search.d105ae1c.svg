@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="104px" height="119px" viewBox="0 0 104 119">
+  <title>Search</title>
+  <g>
+    <path d="M49.4,1.6a5.508,5.508,0,0,1,5,0l46,26.8a5.417,5.417,0,0,1,2.5,4.3V86.3a5.417,5.417,0,0,1-2.5,4.3l-46,26.8a5.508,5.508,0,0,1-5,0L3.4,90.6A5.417,5.417,0,0,1,.9,86.3V32.7a5.417,5.417,0,0,1,2.5-4.3Z" style="fill: #fff;stroke: #f15854;stroke-width: 2px;fill-rule: evenodd"/>
+    <g>
+      <path d="M14.8,34.3H65.9a.684.684,0,0,1,.7.7v3.5L40.35,57.062a18.647,18.647,0,0,0-9.6,16.138H14.8a.684.684,0,0,1-.7-.7V35A.684.684,0,0,1,14.8,34.3Z" style="fill: #fff;stroke: #f15854;stroke-width: 1.600000023841858px;fill-rule: evenodd"/>
+      <path d="M14.7,42H67.2M19.8,49.3H33.5m-13.7,4H33.5m-13.7,4H33.5M19.8,61.4H33.5M19.8,64.6h8.9" style="fill: none;stroke: #f15854;stroke-linecap: round;stroke-width: 0.800000011920929px"/>
+      <circle cx="18.9" cy="38.5" r="1.5" style="fill: #f15854"/>
+      <circle cx="23.4" cy="38.5" r="1.5" style="fill: #f15854"/>
+      <circle cx="27.8" cy="38.5" r="1.5" style="fill: #f15854"/>
+    </g>
+    <g>
+      <path d="M38.1,58.067V40a.684.684,0,0,1,.7-.7H89.9a.684.684,0,0,1,.7.7v7" style="fill: #fff;stroke: #f15854;stroke-width: 1.600000023841858px"/>
+      <path d="M90.6,47V77.5a.684.684,0,0,1-.7.7H63.337" style="fill: #fff;stroke: #f15854;stroke-width: 1.600000023841858px"/>
+      <line x1="43.8" y1="54.3" x2="57.5" y2="54.3" style="fill: none;stroke: #f15854;stroke-linecap: round;stroke-width: 0.800000011920929px"/>
+      <line x1="38.7" y1="47" x2="90.6" y2="47" style="fill: none;stroke: #f15854;stroke-linecap: round;stroke-width: 0.800000011920929px"/>
+      <circle cx="42.9" cy="43.5" r="1.5" style="fill: #f15854"/>
+      <circle cx="47.4" cy="43.5" r="1.5" style="fill: #f15854"/>
+      <circle cx="51.8" cy="43.5" r="1.5" style="fill: #f15854"/>
+      <path d="M62.538,72a.323.323,0,0,1-.006-.033" style="fill: none;stroke: #fbfbfb;stroke-linecap: round;stroke-linejoin: round;stroke-width: 0px"/>
+      <path d="M62.5,64.071V52.5a.684.684,0,0,1,.7-.7H85a.684.684,0,0,1,.7.7V71.8a.684.684,0,0,1-.7.7H65.6" style="fill: none;stroke: #f15854;stroke-linecap: round;stroke-width: 0.800000011920929px"/>
+    </g>
+  </g>
+  <path d="M72.274,93.92c-.2-.3-3.718-3.622-10.355-10.159a18.169,18.169,0,1,0-4.632,4.166c6.163,5.969,9.6,9.4,10.587,10.293,1.4,1.4,3.3,2.7,5.2.8S73.674,95.32,72.274,93.92Zm-24.719-5.7A15.578,15.578,0,1,1,63.133,72.64,15.578,15.578,0,0,1,47.555,88.218Z" style="fill: #f15854"/>
+</svg>
