@@ -1,0 +1,32 @@
+.sidebar2 {
+    overflow-y: scroll;
+    height: 80vh;
+    border: 1px solid rebeccapurple; 
+}
+
+.sidebar2::-webkit-scrollbar {
+    display: none;
+}
+.sidebar2 {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  .sidenav {
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+  }
+  /* .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  } */

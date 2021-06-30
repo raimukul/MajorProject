@@ -1,0 +1,33 @@
+.iconAndText{
+    font-size: 18px;
+    color: rgba(51,51,51,.7);
+    font-weight: 400;
+}
+.iconAndText-title {
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.title1{
+    color: #b768bb;}
+    .title2{
+        color: #f15854;
+    }
+    .title3 {
+        color: #226e88;
+    }
+    .title4{
+        color: #57c1c2;
+    }
+    .title5{
+        color: #f15854;
+    }
+    .title6{
+        color: #49c1fd;
+    }
+    .font-body {
+        font-family: 'Quicksand', sans-serif;
+    }
+    .font-heading{
+        font-family: 'Playfair Display', serif;
+    }

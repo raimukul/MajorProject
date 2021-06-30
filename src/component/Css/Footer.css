@@ -1,0 +1,11 @@
+.bg-gradient-footer {
+    background: linear-gradient(87deg, #172b4d 0, #1a174d 100%) !important; }
+#bgfooter{
+    background: linear-gradient(87deg, #172b4d 0, #1a174d 100%);
+}
+.font-body {
+	font-family: 'Quicksand', sans-serif;
+}
+.font-heading{
+    font-family: 'Playfair Display', serif;
+} 

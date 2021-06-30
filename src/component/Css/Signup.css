@@ -1,0 +1,15 @@
+.font-body {
+    font-family: 'Quicksand', sans-serif;
+}
+.font-heading{
+    font-family: 'Playfair Display', serif;
+}
+.signup1{
+justify-content: center;
+display: flex;
+}
+.custom-select:focus {
+    border-color: #f8f8f8;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(255 255 255)!important;
+}

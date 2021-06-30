@@ -1,0 +1,21 @@
+///fetching data(collection) from firestore///
+  firebase.firestore().collection('rooms').onSnapshot(snapshot=>(
+        setChannel( snapshot.docs.map(doc=>({
+          id:doc.id,
+          name:doc.data().name
+        })))
+    ))
+
+
+
+///fetching data(document) from firestore///
+firebase.firestore().collection('rooms').
+doc(roomId).onSnapshot((snapshot)=>setRoomDetails(snapshot.data())
+         )
+
+
+/././././././././.././//../../useEffect 
+    useEffect(()=>{  ///useEffect tb call hota h jb render hota hai . aur hum achahye to render 
+                      /// pr spacifix value ki liye to array me pass kr do 
+      
+    },[number]) ///useEffect tb call hoga jb number me koi change hoga 

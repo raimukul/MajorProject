@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="119px" viewBox="0 0 104 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>discussion-types</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M47.993577,0.483275061 C49.1016938,-0.161516032 50.899765,-0.160667203 52.006423,0.483275061 L97.993577,27.2422831 C99.1016938,27.8870742 100,29.4444382 100,30.726727 L100,84.2808404 C100,85.5604546 99.100235,87.1213421 97.993577,87.7652844 L52.006423,114.524292 C50.8983062,115.169083 49.100235,115.168235 47.993577,114.524292 L2.00642302,87.7652844 C0.898306184,87.1204933 2.75618954e-14,85.5631293 2.68692932e-14,84.2808404 L-2.05687145e-15,30.726727 C-2.748029e-15,29.4471129 0.899764954,27.8862253 2.00642302,27.2422831 L47.993577,0.483275061 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="104" height="119.007567">
+            <rect x="-2" y="-2" width="104" height="119.007567" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M41.7954119,51.3845825 C39.0126551,51.9869981 36.0828936,52.3086842 33.0579907,52.3086842 C14.8486076,52.3086842 0.0869860225,40.6513322 0.0869860225,26.2712597 C0.0869860225,11.8911872 14.8486076,0.233835217 33.0579907,0.233835217 C51.2673737,0.233835217 66.0289953,11.8911872 66.0289953,26.2712597 C66.0289953,34.8877079 60.7290854,42.5266096 52.56322,47.2658545 C52.1492631,48.9835262 51.8001804,50.7112134 51.7019094,51.9742175 C51.4591953,55.0936415 52.77275,61.1139207 52.77275,61.1139207 L41.7954119,51.3845825 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="65.9420093" height="60.8800855" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="17" y="17" width="15" height="15" rx="1"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="19" height="19">
+            <rect x="15" y="15" width="19" height="19" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <polygon id="path-7" points="41.5 14 49 29 34 29"></polygon>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="19" height="19">
+            <rect x="32" y="12" width="19" height="19" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <circle id="path-9" cx="33.5" cy="33.5" r="7.5"></circle>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="19" height="19">
+            <rect x="24" y="24" width="19" height="19" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forums" transform="translate(-251.000000, -948.000000)">
+            <g id="discussion-types" transform="translate(253.000000, 950.000000)">
+                <g id="Polygon-1-Copy-26">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#226E88" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-48" transform="translate(17.000000, 29.000000)">
+                    <use id="Combined-Shape" stroke="#226E88" mask="url(#mask-4)" stroke-width="4.65116279" stroke-linejoin="round" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <g id="Rectangle-6">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <use stroke="#226E88" mask="url(#mask-6)" stroke-width="4" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Triangle-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <use stroke="#226E88" mask="url(#mask-8)" stroke-width="4" stroke-linejoin="round" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Oval-7">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <use stroke="#226E88" mask="url(#mask-10)" stroke-width="4" stroke-linejoin="round" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
